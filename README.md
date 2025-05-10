@@ -6,7 +6,7 @@ The game displays three 8×8 chessboards offset and scaled to simulate depth. I 
 
 I wanted to explore the challenges of rendering and interacting with a 3D‑like environment and implement complete move logic for all chess pieces in three dimensions, and add a basic random‑move AI for single player.
 
-[Software Demo Video]([https://youtu.be/NjoI87W9WV4?si=L-p06F4AJIIYodeM])
+[Software Demo Video](https://youtu.be/NjoI87W9WV4?si=L-p06F4AJIIYodeM)
 
 # Development Environment
 
